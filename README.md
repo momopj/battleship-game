@@ -33,7 +33,7 @@ this is a simple command-line battleships game where the player competes against
   ├── components.py       # handles board, ship creation, and placement logic
   ├── game_engine.py     # handles player attack logic, ship sinking, and win conditions
   ├── mp_game_engine.py  # manages ai logic and ai move generation
-  ├── main.py           # main entry point for the game (this file)
+  ├── main.py           # main entry point for the game
   ├── README.md         # instructions and information about the game (this file)
 ```
 
